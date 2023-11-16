@@ -1,12 +1,6 @@
 #include "shell.h"
 
 /**
- * Description:
- * the extended functions for main.c
- */
-
-
-/**
  * parse_command - determines the type of the command
  * @command: command to be parsed
  *
